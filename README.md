@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Juan-Pablo
 
 # 💫 About Me:
-I am a recent college graduate, passionate about everything related to<br>computers, from the lowest level to the highest, and I am currently mastering<br>web development as well as system design, and slowly making my way into Machine Learning.
+I am a recent college graduate passionate about everything related to computers, from the lowest level to the highest. I am currently mastering web development and system design while slowly making my way into Machine Learning.
 
 
 ## 🌐 Socials:
